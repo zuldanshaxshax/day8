@@ -1,0 +1,126 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.project h1{
+    color: red;
+}
+.image img{
+    color: antiquewhite;
+}
+.main{
+    background: linear-gradient(to right ,lightblue , rgb(202, 32, 143));
+    display: flex;
+    height: 100vh;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 5%;
+}
+.projects{
+    background-color: grey;
+    border: 10px solid black;
+    width: 800px;
+    height: 700px;
+    display: flex;
+    border-radius: 10px;
+
+}
+.project-a{
+    background-color: white;
+    margin: 20px 30px;
+    width: 450px;
+    border-radius: 5px;
+}
+.project-a h1{
+    color: brown;
+    text-align: left;
+    padding-top: 10px;
+    font-size: 22px;
+    padding-left: 5px;
+}
+.project-1{
+    background-color: antiquewhite;
+    width: 250px;
+    height: 180px;
+    margin: 10px 15px;
+    justify-content: center;
+    border-radius: 5px;
+}
+.project-b{
+    background-color: white;
+    margin: 20px 30px;
+    width: 250px;
+    border-radius: 5px;
+}
+.project-b h1{
+    color: brown;
+    text-align: left;
+    padding-top: 10px;
+    font-size: 22px;
+    padding-left: 5px;
+}
+.project-2{
+    background-color: antiquewhite;
+    width: 220px;
+    height: 700pxpx;
+    margin: 10px 15px;
+    justify-content: center;
+    border-radius: 5px;
+}
+.project-1 h2{
+    color: rgb(31, 103, 103);
+    padding-left: 8px;
+    font-size: 12px;
+    padding-top: 10px;
+}
+.project-1 h3{
+    font-size: 15px;
+    padding-left: 8px;
+    padding-top: 4px;
+}
+.project-1 p{
+    font-size: 12px;
+    padding-left: 8px;
+    padding-top: 10px;
+
+}
+button{
+    margin: 10px 5px;
+    padding: 2px 10px;
+    border-radius: 3px;
+    border: none;
+    font-size: 10px;
+    font-weight: 600;
+}
+.project-3{
+    background-color: antiquewhite;
+    width: 250px;
+    height: 180px;
+    margin: 10px 15px;
+    justify-content: center;
+    border-radius: 5px;
+    margin-left: 37%;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.project-3 h2{
+    color: rgb(31, 103, 103);
+    padding-left: 8px;
+    font-size: 12px;
+    padding-top: 10px;
+}
+.project-3 h3{
+    font-size: 15px;
+    padding-left: 8px;
+    padding-top: 4px;
+}
+.project-3 p{
+    font-size: 12px;
+    padding-left: 8px;
+    padding-top: 10px;
+
+}
+.image{
+    font-size: 100px;
+    color: orange;
+}
